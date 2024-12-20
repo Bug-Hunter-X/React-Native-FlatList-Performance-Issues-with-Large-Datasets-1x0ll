@@ -1,0 +1,1 @@
+This error occurs when using the FlatList component in React Native and trying to render a large number of items. The solution is to implement pagination or virtualization techniques to improve performance and avoid memory issues.
